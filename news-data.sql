@@ -1,0 +1,1 @@
+SELECT * FROM vue_news.user;
